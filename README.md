@@ -1,5 +1,3 @@
 NAME: Anant Shivdas Chavan
 
-Hello, the absolute belief that I hold as of answering is questionable due to my know-how regarding DSA at palatable stage though at numerous instances of my programming sessions often that I find myself thinking of optimal solutions or even at times, there's an absent bridging of my knowledge when it comes to certain implementation instances
-while it may not resonate with its actual purpose but I believe that Data Structures and Algorithm is a subject that simply aims to generalize solutions or programming constructs an attempt to communicate them universally and this seemingly gets more relatable the more I learn the various algorithms and their properties unfold to me being in acknowledgement of building blocks that are much promising than self devised solutions (concurrently, in consideration of my knowledge). Simply put, it's like placing building blocks in your program that may act as microfunction towards a larger function.
-As a result of which I'm tempted to learn DSA with all my vigour to come across the much needed building blocks.
+My attempt at grapsing the concepts of DSA through a practical and application oriented approach :)
